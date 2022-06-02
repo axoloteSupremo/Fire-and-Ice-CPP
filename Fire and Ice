@@ -1,0 +1,29 @@
+/**************************************************************************************
+ This is the poem I'm trying to print out: 
+ Some say the world will end in fire
+ Some say in ice. 
+ From what I've tasted of desire
+ I hold with those who favor fire.
+ But if it had to perish twice,
+ I think I know enough of hate
+ To say that for destruction ice
+ Is also great
+ And would suffice.
+ *************************************************************************************/
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << endl << "Some say the world will end in fire"
+         << endl << "Some say in ice."
+         << endl << "From what I've tasted of desire"
+         << endl << "I hold with those who favor fire"
+         << endl << "But if it had to perish twice,"
+         << endl << "I think I know enough of hate"
+         << endl << "To say that for destruction ice"
+         << endl << "Is also great"
+         << endl << "And would suffice."; 
+
+return 0;
+}
